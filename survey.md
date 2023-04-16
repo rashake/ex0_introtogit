@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: green
+Favorite food: piaaza
+Favorite musician/band: NF 
+Favorite movie: interstellar
+Requested grade in the course:99
